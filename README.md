@@ -1,5 +1,6 @@
 MirrorCam
 =========
+openFrameworks project
 
 Youtube video: http://www.youtube.com/watch?v=cz2GaNEZ17g
 
